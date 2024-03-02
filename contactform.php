@@ -22,7 +22,7 @@
                         <a class="nav-link" href="brand.php">About the brand</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="AboutTompkins.php">About us<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="AboutTompkins.php">About us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://form.jotform.com/231178469964067">Schedule an appointment</a>
