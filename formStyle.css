@@ -12,7 +12,7 @@ header.flexbox {
     background-color: #f0f0f0;
 }
 
-p.flexbox {
+h2.flexbox {
     display: flex;
     align-items: center;
     justify-content: center;
