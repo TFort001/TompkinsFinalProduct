@@ -1,4 +1,5 @@
-﻿$(document).ready(function () {
+$(document).ready(function () {
+    //javascript function mixed with jquery to support carousel animation
     //variables
     var currentPosition = 0;
     var slides = $('.slide');
