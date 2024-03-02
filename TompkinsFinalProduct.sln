@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "TompkinsFinalProduct", "TompkinsFinalProduct.phpproj", "{1641B5C5-4376-473B-B1F2-82FC9FE73521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1641B5C5-4376-473B-B1F2-82FC9FE73521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1641B5C5-4376-473B-B1F2-82FC9FE73521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1641B5C5-4376-473B-B1F2-82FC9FE73521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1641B5C5-4376-473B-B1F2-82FC9FE73521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF383BB-6D0C-428C-87C9-3C8B247C6672}
+	EndGlobalSection
+EndGlobal

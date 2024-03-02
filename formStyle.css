@@ -1,0 +1,34 @@
+﻿.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+header.flexbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-color: #f0f0f0;
+}
+
+p.flexbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-color: #f0f0f0;
+}
+
+p {
+    font-size: 20px;
+    padding-left: 20px;
+    float: left;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+}

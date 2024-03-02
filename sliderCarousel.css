@@ -1,0 +1,17 @@
+﻿#slideshow #slideshowWindow {
+    position: relative;
+    overflow: hidden;
+    background-color:beige;
+}
+
+    #slideshow #slideshowWindow .slide {
+        width: 33.333333%;
+        float: left;
+    }
+
+.slideText {
+    position: relative;
+    
+    padding-left: 100px;
+}
+ 
