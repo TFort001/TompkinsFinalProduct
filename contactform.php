@@ -40,7 +40,7 @@
     <div class = "container-fluid">
       <header class="flexbox">Give us feedback or ask questions</header>
         <p class="flexbox">Please use this page only for asking questions about services or feedback about Tompkins Fitness/ website use</p>
-      <form action = "" id="contactform"  method ="post">
+      <form action = "formConn.php" id="contactform"  method ="post">
      
           <label for ="name">Please enter your first and last name:</label>
           <input type ="text" id ="fullname" size ="50" maxlength="50" class="form-control">
