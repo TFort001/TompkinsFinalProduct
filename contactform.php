@@ -39,7 +39,7 @@
 
     <div class = "container-fluid">
       <header class="flexbox">Give us feedback or ask questions</header>
-        <p class="flexbox">This form submits to Tompkins email</p>
+        <h2 class="flexbox">This form submits to Tompkins email</h2>
           <form action="https://formsubmit.co/trfort1@cougars.ccis.edu" method="POST" >
      
           <label for ="name">Please enter your first and last name:</label>
