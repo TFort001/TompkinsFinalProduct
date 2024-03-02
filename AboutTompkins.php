@@ -1,4 +1,4 @@
-<!-- This page is the about us page that provides information about the tompkins, a couple photos, navbar at the top, and a form for feedback and questions that will be connected to a database-->
+<!-- This page is the about us page that provides information about the tompkins, a couple photos, navbar at the top and information the Tompkins want potential customers to know->
 <!DOCTYPE html>
 <html>
     <head>
@@ -42,7 +42,7 @@
         <section class="headerhere">
           <header class="flexbox"><h1>About Us</h1></header>
         </section>
-        <!-- header with information provided to us, more information coming for this about page and the about brand page-->
+        <!-- information about us-->
         <section class = "tompkinsabout">
           <div class="container">
             <div class="col-md-6">
