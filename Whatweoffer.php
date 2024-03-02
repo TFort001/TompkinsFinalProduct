@@ -1,3 +1,4 @@
+<!-- this page is built to display the 2 plans offered and what their services can provide for the customer-->
 <!DOCTYPE html>
 <html>
     <head>
@@ -8,6 +9,7 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     </head>
     <body>
+        <!--navbar section-->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -41,7 +43,7 @@
                 <p class="flexbox">We work to help you meet your needs</p>
             </div>
         </section>
-
+<!-- one half of page with list of plans and what they offer, other half with video-->
         <section>
             <div class="row">
                 <!-- Plans -->
