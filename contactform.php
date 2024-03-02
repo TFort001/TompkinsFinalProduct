@@ -38,7 +38,7 @@
           </nav>
 
     <div class = "container-fluid">
-      <header class="flexbox">Give us feedback or ask questions</header>
+      <header class="flexbox"><h1>Give us feedback or ask questions</h1></header>
         <h2 class="flexbox">This form submits to Tompkins email</h2><br/>
           <form action="https://formsubmit.co/trfort1@cougars.ccis.edu" method="POST" >
      
