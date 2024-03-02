@@ -1,3 +1,4 @@
+<!-- this form is designed to submit feedback to an email specified in form action -->
 <!DOCTYPE html>
 <html>
     <head>
@@ -36,11 +37,11 @@
               </ul>
             </div>
           </nav>
-
+<!-- Form with inputs for name, email(contact), topic of feedback or questions, and feedback text area -->
     <div class = "container-fluid">
       <header class="flexbox"><h1>Give us feedback or ask questions</h1></header>
         <h2 class="flexbox">This form submits to our email. Please give us a few days for a response.</h2><br/>
-        <!-- replace email after '/' in form action link to send emails to your email address! --> 
+        <!-- replace email after '/' in form action link to test and send emails to your email address! clients email for future use is ericastransformation@gmail.com --> 
         <form action="https://formsubmit.co/trfort1@cougars.ccis.edu" method="POST" >
      
           <label for ="name">Please enter your first and last name:</label>
