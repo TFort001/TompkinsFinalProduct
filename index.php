@@ -27,7 +27,7 @@
                         <a class="nav-link" href="AboutTompkins.php">About us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="SchedulingInfo.php">Schedule an appointment</a>
+                        <a class="nav-link" href="https://form.jotform.com/231178469964067">Schedule an appointment on JotForm</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="Whatweoffer.php">Check out our services</a>
@@ -95,8 +95,7 @@
 
 
            <div class="container">
-               <a href="SchedulingInfo.php">Schedule an appointment with us</a>
-               <p>This page is an aid to get scheduling started. We will contact you to figure out a time and day that works best</p>
+               <a href="https://form.jotform.com/231178469964067">Schedule an appointment with us</a>
                <p>Primary scheduling platform is on Instagram Jotform linked here</p>
            </div>
 
