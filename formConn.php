@@ -10,4 +10,9 @@ catch (PDOException $e) {
     print("Error connecting to SQL Server.");
     die(print_r($e));
 }
+    $connectionInfo = array("UID" => "tompkinsofalltrades-server-admin", "pwd" => "Capstone1!", "Database" => "tompkinsdb", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
+$serverName = "tcp:tompkinsofalltrades-server.database.windows.net,1433";
+$conn = sqlsrv_connect($serverName, $connectionInfo);
 }
+    ?>
+
