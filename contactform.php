@@ -50,7 +50,7 @@
           <input type ="text" id ="contact" name="contact" size ="50" maxlength="50" class="form-control">
         <br/>
         
-          <label for ="topic">Select a relevent topic your post relates to:</label>
+          <label for ="topic">Select a relevant topic your post relates to:</label>
           <select class="form-control"id="topic"name="relevant">
             <option>Personal training services specifics</option>
             <option>Personal question for Tompkins</option>
