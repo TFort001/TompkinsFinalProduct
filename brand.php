@@ -1,3 +1,4 @@
+<!-- this page is built to talk about the brand and what it means for them-->
 <!DOCTYPE html>
 <html>
     <head>
@@ -40,7 +41,7 @@
         <div class = "IntroBrand">
             <header class="flexbox">About the brand</header>
             </div>
-            
+            <!-- half of the page text, other photos-->
                 <div class="container">
                     <div class="text">
                     <p>Tompkins of all Trades was design to help people not only physically but mentally. Through Tompkins of all Trades, every plan is unique to the individual, no "cookie-cutter" nutritional plans and workouts. 
