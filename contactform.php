@@ -43,7 +43,7 @@
       <form action="https://formsubmit.co/trfort1@cougars.ccis.edu" method="POST" >
      
           <label for ="name">Please enter your first and last name:</label>
-          <input type ="text" id ="fullname" size ="50" maxlength="50" class="form-control">
+          <input type ="text" id ="fullname" name = "fullname" size ="50" maxlength="50" class="form-control">
         <br/>
         
           <label for ="contact">Please enter a valid email address:</label>
