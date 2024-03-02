@@ -1,5 +1,5 @@
 <?php
-function formConn()
+function connForm()
 {
     // PHP Data Objects(PDO) Sample Code:
 try {
