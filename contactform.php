@@ -39,8 +39,8 @@
 
     <div class = "container-fluid">
       <header class="flexbox">Give us feedback or ask questions</header>
-        <p class="flexbox">Please use this page only for asking questions about services or feedback about Tompkins Fitness/ website use</p>
-      <form action="https://formsubmit.co/trfort1@cougars.ccis.edu" method="POST" >
+        <p class="flexbox">This form submits to Tompkins email</p>
+          <form action="https://formsubmit.co/trfort1@cougars.ccis.edu" method="POST" >
      
           <label for ="name">Please enter your first and last name:</label>
           <input type ="text" id ="fullname" name = "fullname" size ="50" maxlength="50" class="form-control">
