@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'TompkinsofallTrades'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_367A24DD05554E55933B8080A09F6052 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB5664A3F69145E5A0136A080F345B81 }}
           package: .
