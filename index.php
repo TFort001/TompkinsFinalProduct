@@ -1,3 +1,4 @@
+<!-- this page should be designed to support navigation between the pages, a carousel with photos, and a welcoming video.-->
 <!DOCTYPE html>
 <html>
    <head>
@@ -11,6 +12,7 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
    </head> 
    <body>
+      <!-- nav-bar-->
        <nav class="navbar navbar-expand-lg navbar-light bg-light">
            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                <span class="navbar-toggler-icon"></span>
@@ -38,7 +40,7 @@
                </ul>
            </div>
        </nav>
-       <!--more information coming for these sections-->
+      <!--carousel with one picture per slide, tried to center, stayed left to no avail-->
        <section class="part1">
            <div class="informhome">
                <header class="flexbox">
@@ -71,6 +73,7 @@
                </div>
            </div>
        </section> 
+      <!-- welcome video-->
        <section class="welcome video" >
        <div class="col-md-12">
                     <video controls width="100%" height="350">
@@ -79,6 +82,7 @@
                     </video>
                 </div>
        </section>
+      <!-- nav links  in body section-->
        <section>
            <div class="container">
                <a href="brand.php">Find out more about the Brand</a>
